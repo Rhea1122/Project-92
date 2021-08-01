@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://images.freeimages.com/images/large-previews/a3b/website-rays-background-pattern-1637863.png");
+    background-repeat: no-repeat;
+    font-family: 'Zen Tokyo Zoo', cursive;
+    text-align: center;
+}    
+img{
+    height: 100%;
+    width: 100%;
+}

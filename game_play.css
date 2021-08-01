@@ -1,0 +1,17 @@
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid palevioletred;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    width:1000px;
+}
+body{
+    font-family: 'Zen Loop', cursive;
+    background-image: url("https://i.pinimg.com/originals/c9/9e/5a/c99e5a11d3c6e40fd35914767adb4da8.png");
+}
+#head{
+    color:black;
+    
+}
